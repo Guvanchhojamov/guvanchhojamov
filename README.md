@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm <a href="https://tm.linkedin.com/in/guvanch-hojamov-39b5aa196" target="_blank">Guvanch</a>!
 (Use dark theme to find my socials ;)
 
-<a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://www.google.com/search?q=guvanch+hojamov" target="_blank"><img align="left" alt="www" width="22px" src="https://icons8.com/icon/1349/website" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
 <a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
