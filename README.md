@@ -19,16 +19,11 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm <a href="https://tm.linkedin.com/in/guvanch-hojamov-39b5aa196" target="_blank">Guvanch</a>!
 (Use dark theme to find my socials ;)
 <a href="https://www.google.com/search?q=guvanch+hojamov" target="_blank"><img align="left" alt="www" width="22px" src="icons8-www-50.png" /></a>
-<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
-<a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
-<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
-<a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://tm.linkedin.com/in/guvanch-hojamov-39b5aa196" target="_blank"><img align="left" alt="Guvanch H | LinkedIn" width="22px" src="icons8-linkedin-50.png" />
+<a href="https://instagram.com/guvanch_hojamov" target="_blank"><img align="left" alt="Guvanch H | Instagram" width="22px" src="icons8-instagram-50.png" />
+<a href="https://medium.com/@guvanchhojamov" target="_blank"><img align="left" alt="Guvanch H| Medium" width="22px" src="icons8-medium-50.png" />
 
 <br />
-<br/>
 
 ### Languages and Tools:
 
