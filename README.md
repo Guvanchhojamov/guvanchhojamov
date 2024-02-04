@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
 <br/>
-<br/>
-
-## Heyyo, I'm <a href="https://aakarsh.design" target="_blank">Aakarsh</a>!
+### Hi there 👋, I'm <a href="https://tm.linkedin.com/in/guvanch-hojamov-39b5aa196" target="_blank">Guvanch</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
@@ -32,18 +29,6 @@ Here are some ideas to get you started:
 <a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 <br />
-<br />
-<br />
-
-### 📕 Latest Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
-<!-- BLOG-POST-LIST:END -->
-
 <br/>
 
 ### Languages and Tools:
