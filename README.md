@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm <a href="https://tm.linkedin.com/in/guvanch-hojamov-39b5aa196" target="_blank">Guvanch</a>!
 
 <!--
 **Guvanchhojamov/guvanchhojamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <br/>
-### Hi there 👋, I'm <a href="https://tm.linkedin.com/in/guvanch-hojamov-39b5aa196" target="_blank">Guvanch</a>!
-(Use dark theme to find my socials ;)
 <a href="https://www.google.com/search?q=guvanch+hojamov" target="_blank"><img align="left" alt="www" width="22px" src="icons8-www-50.png" /></a>
 <a href="https://tm.linkedin.com/in/guvanch-hojamov-39b5aa196" target="_blank"><img align="left" alt="Guvanch H | LinkedIn" width="22px" src="icons8-linkedin-50.png" />
 <a href="https://instagram.com/guvanch_hojamov" target="_blank"><img align="left" alt="Guvanch H | Instagram" width="22px" src="icons8-instagram-50.png" />
