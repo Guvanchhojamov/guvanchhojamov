@@ -1,4 +1,4 @@
-### Hi there 👋, I'm <a href="https://tm.linkedin.com/in/guvanch-hojamov-39b5aa196" target="_blank">Guvanch</a>!
+### Hi there 👋
 
 <!--
 **Guvanchhojamov/guvanchhojamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
